@@ -1,7 +1,13 @@
 
 # CycerBypasser: Ultimate URL Shortener Bypass Toolkit
 
-
+## Table of Contents
+- [Introduction](#introduction)
+- [What and Why](#what-and-why)
+- [Quickstart](#quickstart)
+- [Supported Links](#supported-links)
+- [Authors](#authors)
+- [Contributing](#contributing)
 
 ## Introduction
 Introduction
