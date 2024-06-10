@@ -11,12 +11,13 @@
 
 ## Introduction
 Introduction
-CycerBypasser helps you bypass URL shorteners and access original URLs effortlessly. It's especially useful for developers and users who frequently encounter shortened URLs in their workflows or daily browsing. By providing a straightforward interface to handle these redirects, CycerBypasser enhances productivity and user experience.
+CycerBypasser is a URL shortening bypass tool that enables access to the original URL without using the shortener. This is useful for developers and users who encounter shortened URLs.
+
 ## What and Why
 
 **What is CycerBypasser?**
 
-CycerBypasser automatically bypasses URL shorteners, directing users to the original URLs. It streamlines access to content hidden behind short links, saving time and eliminating the need to navigate through ads or multiple redirects.
+CycerBypasser automatically bypasses URL shorteners, directing users to the original URLs, saving time and eliminating the need to navigate through ads or multiple redirects.
 
 **Why Use CycerBypasser?**
 
@@ -29,7 +30,7 @@ CycerBypasser automatically bypasses URL shorteners, directing users to the orig
 
 - pip (Python package installer)
 
-**Steps**
+**Steps to use**
 
 1. Clone the Repository to your computer.
 
@@ -65,9 +66,6 @@ shorte.st
 adf.ly
 And many more!
 Please refer to the [Documentation](https://sunil834.github.io/CycerBypasser/Documentation.html) for a complete list of supported URL shorteners.
-
-
-
 
 ## Authors
 
