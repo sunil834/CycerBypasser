@@ -15,8 +15,3 @@
 13. Platoboost powered keysystems
 14. Trigon evo
 15. Work.ink
-
-## cycerbypasser.py
-## © 2024 Sunil (sunil834)
-## This script is licensed under the GNU General Public License v3.0.
-## Unauthorized copying of this file, via any medium, is strictly prohibited.
