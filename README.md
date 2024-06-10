@@ -59,11 +59,10 @@ python CycerBypasser.py
 
 CycerBypasser supports bypassing the following URL shorteners:
 
-bit.ly
-tinyurl.com
-goo.gl
-shorte.st
-adf.ly
+Linkvertise
+LootLabs
+Mboost
+work.ink
 And many more!
 Please refer to the [Documentation](https://sunil834.github.io/CycerBypasser/Documentation.html) for a complete list of supported URL shorteners.
 
