@@ -70,7 +70,7 @@ Please refer to the [Documentation](https://sunil834.github.io/CycerBypasser/Doc
 ## Authors
 
 - Sunil [[@sunil834]](https://github.com/sunil834) - Creator & Maintenance
- cycerbypasser.py
+- cycerbypasser.py
  © 2024 Sunil (sunil834)
  This script is licensed under the GNU General Public License v3.0.
  Unauthorized copying of this file, via any medium, is strictly prohibited.
