@@ -76,6 +76,4 @@ Please refer to the [Documentation](https://sunil834.github.io/CycerBypasser/Doc
 
 Contributions are always welcome!
 
-See `[contribute.md](https://sunil834.github.io/CycerBypasser/contribute.html)` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
+See [contribute.md](https://sunil834.github.io/CycerBypasser/contribute.html) for ways to get started.
