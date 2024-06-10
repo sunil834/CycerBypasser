@@ -51,7 +51,7 @@ pip install -r requirements.txt
 
 4. Run the Project
 ```bash
-python cycerbypasser.py
+python CycerBypasser.py
 ```
 
 
