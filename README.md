@@ -71,11 +71,11 @@ Please refer to the [Documentation](https://sunil834.github.io/CycerBypasser/Doc
 
 ## Authors
 
-- [@sunil834](https://github.com/sunil834)
+- Sunil [@sunil834](https://github.com/sunil834) - Creator & Maintenance 
 ## Contributing
 
 Contributions are always welcome!
 
-See `contributing.md` for ways to get started.
+See `[contribute.md](https://sunil834.github.io/CycerBypasser/contribute.html)` for ways to get started.
 
 Please adhere to this project's `code of conduct`.
