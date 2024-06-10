@@ -50,11 +50,6 @@ If you're new to contributing to open-source projects, here's a step-by-step gui
 
 8. **Submit a Pull Request:** Finally, submit a pull request from your forked repository to the main repository on GitHub. Provide a detailed description of your changes in the pull request.
 
-
-## Code of Conduct
-
-Please note that we have a [Code of Conduct](CODE_OF_CONDUCT.md) in place to ensure that CycerBypasser remains a welcoming and inclusive community for all contributors. By participating in this project, you agree to abide by the terms of the Code of Conduct.
-
 ## Questions
 
 If you have any questions about contributing to CycerBypasser, please feel free to contact us via [email](mailto:nimmadasunil+github@gmail.com) or [create an issue](https://github.com/sunil834/cycerbypasser/issues/new) on GitHub. 
