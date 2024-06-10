@@ -71,7 +71,7 @@ Please refer to the [Documentation](https://sunil834.github.io/CycerBypasser/Doc
 
 ## Authors
 
-- Sunil [@sunil834](https://github.com/sunil834) - Creator & Maintenance 
+- Sunil [[@sunil834]](https://github.com/sunil834) - Creator & Maintenance 
 ## Contributing
 
 Contributions are always welcome!
