@@ -1,5 +1,2 @@
-os
-pyfiglet
-requests
-urllib.parse
-
+pyfiglet==1.0.2
+Requests==2.32.3
